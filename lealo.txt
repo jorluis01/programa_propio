@@ -1,0 +1,7 @@
+si estas en el pc de don alirio sin formatear, la base de datos completa esta en localhost, no posee clave
+
+si el pc ya fue formateado, el debe o debio haberme llamado para realiasar una copia de seguridad de la base de datos, si ese es el caso acuerdele de contactar a jorge :D
+
+
+
+el programa esta realisado en los lenguajes php y javascript utilisando la libreria jquery 1.4.2

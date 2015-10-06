@@ -1,0 +1,29 @@
+.ventanatabla{
+     height: 400px;
+  overflow: auto;
+    
+}
+.tablaprincipal{
+    height: 500px;
+  overflow: auto;
+}
+#tablaproducto{
+    height: 500px;
+  overflow: auto;
+}
+#movimientocaja{
+    height: 500px;
+  overflow: auto;
+}
+.ventanacobrar{
+    border-radius: 10px;
+}
+.ventanaabonar{
+    border-radius: 10px;
+}
+#procesoscaja{
+    display: none;
+}
+#nuevosaldocaja{
+    display: none;
+}
